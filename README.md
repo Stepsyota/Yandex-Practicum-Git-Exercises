@@ -1,6 +1,6 @@
-#Hello!
-##This is my first README file!
+# Hello!  
+## This is my first README file!
 
-##How it feels?
-##*~Feels good~*
+## How it feels?  
+## *~Feels good~*
 ----
